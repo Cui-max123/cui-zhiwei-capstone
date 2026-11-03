@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1080" viewBox="0 0 900 1080" role="img" aria-label="Abstract portrait card for Cui Zhiwei">
+  <rect width="900" height="1080" fill="#f6f1e7"/>
+  <g stroke="#1c2620" stroke-width="1" opacity="0.14">
+    <path d="M0 120 H900 M0 240 H900 M0 360 H900 M0 480 H900 M0 600 H900 M0 720 H900 M0 840 H900 M0 960 H900"/>
+    <path d="M120 0 V1080 M240 0 V1080 M360 0 V1080 M480 0 V1080 M600 0 V1080 M720 0 V1080"/>
+  </g>
+  <circle cx="640" cy="200" r="130" fill="#c1532d"/>
+  <path d="M450 320 C 380 320 320 390 320 470 C 320 560 380 640 450 640 C 520 640 580 560 580 470 C 580 390 520 320 450 320 Z" fill="#1c2620"/>
+  <circle cx="450" cy="470" r="90" fill="#f6f1e7"/>
+  <rect x="270" y="700" width="360" height="200" fill="#2f6a5a"/>
+  <g font-family="Georgia, 'Times New Roman', serif" fill="#1c2620">
+    <text x="60" y="90" font-size="34">CUI / ZHIWEI</text>
+    <text x="60" y="130" font-size="22" fill="#1c2620" opacity="0.6">Full-stack · Data management</text>
+    <text x="60" y="1000" font-size="24">Shenyang · 2026</text>
+  </g>
+  <g font-family="monospace" fill="#1c2620" opacity="0.7">
+    <text x="60" y="1035" font-size="18">EST. 2003 — BUILT FOR THE WEB</text>
+  </g>
+</svg>
